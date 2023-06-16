@@ -1,0 +1,152 @@
+{
+  "kopi": [
+    {
+      "foto": "images/produk/product_kopi/kopi late.webp",
+      "nama": "Coffee Late",
+      "harga": "Rp.25.000,-",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_americano.jpg",
+      "nama": "Americano",
+      "harga": "Rp.25.000,-",
+      "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_capuchino.jpg",
+      "nama": "Capuchino",
+      "harga": "Rp.25.000,-",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_espresso.jpg",
+      "nama": "Kopsus Robusta",
+      "harga": "Rp.20.000,-",
+      "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_kopi_susu.jpg",
+      "nama": "Kopi Susu",
+      "harga": "Rp.28.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_latte.jpg",
+      "nama": "Latte Robusta",
+      "harga": "Rp.255.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_v60.jpg",
+      "nama": "V60",
+      "harga": "Rp.15.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_kopi/product_vietnam_drip.jpg",
+      "nama": "Vietnam Drip",
+      "harga": "Rp.15.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "non_kopi": [
+    {
+      "foto": "images/produk/non_kopi/product_thai_tea.jpg",
+      "nama": "Thai Tea",
+      "harga": "Rp.17.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_chocolate.jpeg",
+      "nama": "Chocolate",
+      "harga": "Rp.20.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/lemon_tea.jpg",
+      "nama": "Lemon Tea",
+      "harga": "Rp.14.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_matcha.png",
+      "nama": "Matcha",
+      "harga": "Rp.17.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_oreo.webp",
+      "nama": "Oreo Cheese Cake",
+      "harga": "Rp.27.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_red_valvet.webp",
+      "nama": "Red Valvet",
+      "harga": "Rp.27.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_salted_caramel.jpg",
+      "nama": "Salted Caramel",
+      "harga": "Rp.20.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/non_kopi/product_taro.webp",
+      "nama": "Taro Jely Milk",
+      "harga": "Rp.17.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "makanan": [
+    {
+      "foto": "images/produk/makanan/cake.jpg",
+      "nama": "Chocolate Cake",
+      "harga": "Rp.8.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/cireng.jpeg",
+      "nama": "Cireng",
+      "harga": "Rp.5.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/kentang.jpg",
+      "nama": "Kentang Goreng",
+      "harga": "Rp.10.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/kue.jpg",
+      "nama": "Kue Balok",
+      "harga": "Rp.9.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/pisang.jpg",
+      "nama": "Pisang Goreng",
+      "harga": "Rp.8.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/puding.jpg",
+      "nama": "Choco Puding",
+      "harga": "Rp.10.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/risol.jpg",
+      "nama": "Risol Mayo",
+      "harga": "Rp.9.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/makanan/roti_bakar.webp",
+      "nama": "Roti Bakar",
+      "harga": "Rp.12.000,-",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ]
+}
